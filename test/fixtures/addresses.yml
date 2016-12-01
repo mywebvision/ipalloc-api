@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ip_block: '1.2.0.0/16'
+  ip_address: '1.2.3.4'
+  device: 'device1'
+
+two:
+  ip_block: '1.2.0.0/16'
+  ip_address: '1.2.4.6'
+  device: 'device2'
